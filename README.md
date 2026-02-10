@@ -18,7 +18,7 @@
 - 🌱 I’m learning **Advanced Machine Learning, Deep Learning & API Optimization**
 - 👨‍💻 My projects focus on **Python, AI Models, REST APIs, and Data Analytics**
 - 🧠 Interested in **ML Research, Model Evaluation, and Real-world AI Applications**
-- 📫 How to reach me: **somesh@email.com**
+- 📫 How to reach me: **kamatchisomesh@gmail.com**
 - ⚡ Fun fact: **I love turning raw data into intelligent systems 🤖**
 
 <h3 align="left">Connect with me:</h3>
@@ -31,7 +31,6 @@
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
