@@ -2,6 +2,9 @@
   <img src="intro.gif" width="100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Somesh</h1>
+<a href = "https://portfolio-somesh.web.app/" target="_blank">
+  Check out my portfolio Here
+</a>
 <h3 align="center">A Python & AI/ML Developer from India</h3>
 
 <p align="left">
