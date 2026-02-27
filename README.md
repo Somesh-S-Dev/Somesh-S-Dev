@@ -1,10 +1,11 @@
 <div align="center">
   <img src="intro.gif" width="100%" />
 </div>
-<h1 align="center">Hi 👋, I'm Somesh</h1>
-<a href = "https://portfolio-somesh.web.app/" target="_blank">
-  Check out my portfolio Here
+<h1 align="center">Hi 👋, I'm Somesh <a href = "https://portfolio-somesh.web.app/" target="_blank">
+  🔗
 </a>
+</h1>
+
 <h3 align="center">A Python & AI/ML Developer from India</h3>
 
 <p align="left">
